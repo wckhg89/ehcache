@@ -1,0 +1,1 @@
+INSERT INTO CONTENT (id, writer, content) VALUES (1, 'zumgu', '테스트글 입니다.');
